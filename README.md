@@ -9,7 +9,6 @@ Interests
 - rust (recently)
 - java
 - reactjs
-- flutter (dart)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sangwon104&layout=compact)
 
