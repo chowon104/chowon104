@@ -1,12 +1,12 @@
 Sanwon Cho
 ---
 Hi, I'm Web Programmer especially programming back-end side. </br>
-Recently I'm interested in rust and practice it.
+Recently I'm interested in clojure and practice it.
 
 Interests
 ---
-- <b>coin trading bot and back-test simulator (convert python to rust)</b>
-- rust (recently)
+- <b>coin trading bot and back-test simulator (python)</b>
+- clojure (recently)
 - java
 - reactjs
 
