@@ -5,9 +5,9 @@ Recently I'm interested in android with kotlin and practice it.
 
 Interests
 ---
-- kotlin (recently)
+- rust (recently)
 - java
-- reactjs
+- android with kotlin
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sangwon104&layout=compact)
 
