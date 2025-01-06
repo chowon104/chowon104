@@ -1,13 +1,13 @@
 Sanwon Cho
 ---
 Hi, I'm Web Programmer especially programming back-end side. </br>
-Recently I'm interested in android with kotlin and practice it.
 
 Interests
 ---
-- rust (recently)
+- ruby on rails
+- rust
 - java
-- android with kotlin
+- nextjs + supabase
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sangwon104&layout=compact)
 
