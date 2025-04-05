@@ -1,12 +1,13 @@
 Sanwon Cho
 ---
-Hi, I'm Web Programmer especially programming back-end side. </br>
+Hi, I'm Web Programmer especially programming back-end side (java + spring). </br>
+And I'm interested in indie-hacker (nextjs + supabase and python).
+
 
 Interests
 ---
-- ruby on rails
-- rust
 - java
+- python
 - nextjs + supabase
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sangwon104&layout=compact)
